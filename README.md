@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+hi, humans!
+
+i like to write in lower case letters only and i hope to master this pretty soon.
+bye!
